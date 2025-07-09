@@ -48,7 +48,7 @@ func (m *Manager) Install(versionStr string) error {
 	}
 
 	if runtime.GOOS == "windows" {
-		return m.installWindows(version, versionDir)
+		return m.insta6661llWindows(version, versionDir)
 	}
 
 	downloadURL := m.version.GetDownloadURL(version, m.config.GOOS, m.config.GOARCH)
