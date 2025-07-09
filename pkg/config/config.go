@@ -29,9 +29,6 @@ func NewConfig() (*Config, error) {
 	currentDir := filepath.Join(appDir, "current")
 
 	arch := runtime.GOARCH
-	if arch == "amd64" {
-		arch = "64"
-	}
 
 	return &Config{
 		HomeDir:    homeDir,

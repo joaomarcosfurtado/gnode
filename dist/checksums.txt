@@ -1,6 +1,0 @@
-# GNode v1.0.0 Checksums
-97e785bbb70c4294d5914ecebc615fb772d6ab794237be80511e2424a9e94872  dist/gnode-linux-amd64.tar.gz
-03747288c1f7d0a3e3994faa910bfa1d95fc7608ec5c584cbaabb467991186d4  dist/gnode-linux-arm64.tar.gz
-e19250446019cb9ca836f28801163f6f92c5ca25eff6bac76d8d2653a4e24752  dist/gnode-darwin-amd64.tar.gz
-e0b9165c376d3f8c935b5cc2e9c59f7b8aa82f038da8c8ddbe9c1bfaf8aaacb7  dist/gnode-darwin-arm64.tar.gz
-23a1eef102591f4ee98b7ea349faf1a944b5ab49c9cd79a6e560467130009e2c  dist/gnode-windows-amd64.tar.gz
